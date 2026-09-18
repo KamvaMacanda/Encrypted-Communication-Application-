@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamva\\source\\repos\\Secure Communication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF5149B-B11F-4294-9074-6C115A3AEEE4}|..\\SenderApp\\SenderApp.csproj|c:\\users\\kamva\\source\\repos\\senderapp\\senderapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF5149B-B11F-4294-9074-6C115A3AEEE4}|..\\SenderApp\\SenderApp.csproj|c:\\users\\kamva\\source\\repos\\senderapp\\sender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152B3D8D-72A7-423E-B2AD-721366A3E84D}|ReceiverApp.csproj|c:\\users\\kamva\\source\\repos\\secure communication\\receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152B3D8D-72A7-423E-B2AD-721366A3E84D}|ReceiverApp.csproj|solutionrelative:receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D64E6-49A0-45F3-96D2-7740F1C774D2}|..\\Encryption\\Encryption Library.csproj|c:\\users\\kamva\\source\\repos\\encryption\\websockets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D64E6-49A0-45F3-96D2-7740F1C774D2}|..\\Encryption\\Encryption.csproj|c:\\users\\kamva\\source\\repos\\encryption\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D64E6-49A0-45F3-96D2-7740F1C774D2}|..\\Encryption\\Encryption Library.csproj|c:\\users\\kamva\\source\\repos\\encryption\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D64E6-49A0-45F3-96D2-7740F1C774D2}|..\\Encryption\\Encryption Library.csproj|c:\\users\\kamva\\source\\repos\\encryption\\rsa encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF5149B-B11F-4294-9074-6C115A3AEEE4}|..\\SenderApp\\SenderApp.csproj|c:\\users\\kamva\\source\\repos\\senderapp\\errorhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF5149B-B11F-4294-9074-6C115A3AEEE4}|..\\SenderApp\\SenderApp.csproj|c:\\users\\kamva\\source\\repos\\senderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152B3D8D-72A7-423E-B2AD-721366A3E84D}|ReceiverApp.csproj|c:\\users\\kamva\\source\\repos\\secure communication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152B3D8D-72A7-423E-B2AD-721366A3E84D}|ReceiverApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SenderApp",
+              "DocumentMoniker": "C:\\Users\\kamva\\source\\repos\\SenderApp\\SenderApp.csproj",
+              "RelativeDocumentMoniker": "..\\SenderApp\\SenderApp.csproj",
+              "ToolTip": "C:\\Users\\kamva\\source\\repos\\SenderApp\\SenderApp.csproj",
+              "RelativeToolTip": "..\\SenderApp\\SenderApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T10:48:57.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sender.cs",
+              "DocumentMoniker": "C:\\Users\\kamva\\source\\repos\\SenderApp\\sender.cs",
+              "RelativeDocumentMoniker": "..\\SenderApp\\sender.cs",
+              "ToolTip": "C:\\Users\\kamva\\source\\repos\\SenderApp\\sender.cs",
+              "RelativeToolTip": "..\\SenderApp\\sender.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T20:32:58.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebSockets.cs",
+              "DocumentMoniker": "C:\\Users\\kamva\\source\\repos\\Encryption\\WebSockets.cs",
+              "RelativeDocumentMoniker": "..\\Encryption\\WebSockets.cs",
+              "ToolTip": "C:\\Users\\kamva\\source\\repos\\Encryption\\WebSockets.cs",
+              "RelativeToolTip": "..\\Encryption\\WebSockets.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T07:32:51.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "receiver.cs",
+              "DocumentMoniker": "C:\\Users\\kamva\\source\\repos\\Secure Communication\\receiver.cs",
+              "RelativeDocumentMoniker": "receiver.cs",
+              "ToolTip": "C:\\Users\\kamva\\source\\repos\\Secure Communication\\receiver.cs",
+              "RelativeToolTip": "receiver.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T21:18:45.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hashing.cs",
+              "DocumentMoniker": "C:\\Users\\kamva\\source\\repos\\Encryption\\Hashing.cs",
+              "RelativeDocumentMoniker": "..\\Encryption\\Hashing.cs",
+              "ToolTip": "C:\\Users\\kamva\\source\\repos\\Encryption\\Hashing.cs",
+              "RelativeToolTip": "..\\Encryption\\Hashing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:26:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RSA Encryption.cs",
+              "DocumentMoniker": "C:\\Users\\kamva\\source\\repos\\Encryption\\RSA Encryption.cs",
+              "RelativeDocumentMoniker": "..\\Encryption\\RSA Encryption.cs",
+              "ToolTip": "C:\\Users\\kamva\\source\\repos\\Encryption\\RSA Encryption.cs",
+              "RelativeToolTip": "..\\Encryption\\RSA Encryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T22:15:32.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cryptography.cs",
+              "DocumentMoniker": "C:\\Users\\kamva\\source\\repos\\Encryption\\Cryptography.cs",
+              "RelativeDocumentMoniker": "..\\Encryption\\Cryptography.cs",
+              "ToolTip": "C:\\Users\\kamva\\source\\repos\\Encryption\\Cryptography.cs",
+              "RelativeToolTip": "..\\Encryption\\Cryptography.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T20:30:05.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorHandling.cs",
+              "DocumentMoniker": "C:\\Users\\kamva\\source\\repos\\SenderApp\\ErrorHandling.cs",
+              "RelativeDocumentMoniker": "..\\SenderApp\\ErrorHandling.cs",
+              "ToolTip": "C:\\Users\\kamva\\source\\repos\\SenderApp\\ErrorHandling.cs",
+              "RelativeToolTip": "..\\SenderApp\\ErrorHandling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T23:14:46.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamva\\source\\repos\\SenderApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SenderApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kamva\\source\\repos\\SenderApp\\Program.cs",
+              "RelativeToolTip": "..\\SenderApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T22:17:53.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamva\\source\\repos\\Secure Communication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kamva\\source\\repos\\Secure Communication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T22:17:45.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
